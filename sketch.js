@@ -114,6 +114,7 @@ pop()
 push()
 fill('white');
 textFont(myFont)
+textSize(30)
 text('Breaking News', windowWidth - frameCount*3, 100);
 pop()
 }
